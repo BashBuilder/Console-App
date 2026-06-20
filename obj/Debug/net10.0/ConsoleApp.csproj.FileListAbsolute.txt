@@ -1,0 +1,15 @@
+C:\Users\iamad\OneDrive\Desktop\dotnet\ConsoleApp\obj\Debug\net10.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamad\OneDrive\Desktop\dotnet\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\iamad\OneDrive\Desktop\dotnet\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\iamad\OneDrive\Desktop\dotnet\ConsoleApp\obj\Debug\net10.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\iamad\OneDrive\Desktop\dotnet\ConsoleApp\obj\Debug\net10.0\ConsoleApp.sourcelink.json
+C:\Users\iamad\OneDrive\Desktop\dotnet\ConsoleApp\bin\Debug\net10.0\ConsoleApp.exe
+C:\Users\iamad\OneDrive\Desktop\dotnet\ConsoleApp\bin\Debug\net10.0\ConsoleApp.deps.json
+C:\Users\iamad\OneDrive\Desktop\dotnet\ConsoleApp\bin\Debug\net10.0\ConsoleApp.runtimeconfig.json
+C:\Users\iamad\OneDrive\Desktop\dotnet\ConsoleApp\bin\Debug\net10.0\ConsoleApp.dll
+C:\Users\iamad\OneDrive\Desktop\dotnet\ConsoleApp\bin\Debug\net10.0\ConsoleApp.pdb
+C:\Users\iamad\OneDrive\Desktop\dotnet\ConsoleApp\obj\Debug\net10.0\ConsoleApp.dll
+C:\Users\iamad\OneDrive\Desktop\dotnet\ConsoleApp\obj\Debug\net10.0\refint\ConsoleApp.dll
+C:\Users\iamad\OneDrive\Desktop\dotnet\ConsoleApp\obj\Debug\net10.0\ConsoleApp.pdb
+C:\Users\iamad\OneDrive\Desktop\dotnet\ConsoleApp\obj\Debug\net10.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\iamad\OneDrive\Desktop\dotnet\ConsoleApp\obj\Debug\net10.0\ref\ConsoleApp.dll
