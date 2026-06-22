@@ -10,9 +10,11 @@ namespace ConsoleApp
     {
       // Condition.Run();
       // TryParseFunction.Run();
-      LoopExample loop = new();
-      loop.ListLetters("Adamatium");
-      loop.ListNumbers([12, 23, 45, 29]);
+      // LoopExample loop = new();
+      // loop.ListLetters("Adamatium");
+      // loop.ListNumbers([12, 23, 45, 29]);
+
+      ListExample.RunExample();
 
     }
   }
