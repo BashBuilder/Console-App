@@ -6,7 +6,7 @@ namespace ConsoleApp
 {
   internal class Example
   {
-    static void Main(string[] args)
+    static void Main()
     {
       // Condition.Run();
       // TryParseFunction.Run();
@@ -14,7 +14,8 @@ namespace ConsoleApp
       // loop.ListLetters("Adamatium");
       // loop.ListNumbers([12, 23, 45, 29]);
 
-      ListExample.RunExample();
+      // ListExample.RunExample();
+      DictionaryExample.RunExample();
 
     }
   }
