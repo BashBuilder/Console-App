@@ -15,7 +15,8 @@ namespace ConsoleApp
       // loop.ListNumbers([12, 23, 45, 29]);
 
       // ListExample.RunExample();
-      DictionaryExample.RunExample();
+      // DictionaryExample.RunExample();
+      FunctionExample.Run(2);
 
     }
   }
